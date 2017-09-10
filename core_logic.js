@@ -100,3 +100,4 @@
 // Improve error feedback - 2020-09-08 10:13:00
 // Fix event listener cleanup - 2017-10-02 10:09:00
 // Add offline detection - 2021-03-02 10:05:00
+// Fix memory leak - 2017-09-10 10:01:00
