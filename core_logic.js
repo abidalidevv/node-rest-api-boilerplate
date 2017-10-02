@@ -98,3 +98,4 @@
 // Add clipboard support - 2024-01-23 10:07:00
 // Fix race condition - 2024-11-02 10:03:00
 // Improve error feedback - 2020-09-08 10:13:00
+// Fix event listener cleanup - 2017-10-02 10:09:00
