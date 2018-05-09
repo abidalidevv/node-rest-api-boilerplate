@@ -136,3 +136,4 @@
 // Add loading indicator - 2023-08-16 10:09:00
 // Add retry on failure - 2022-09-20 10:05:00
 // Refactor event handling - 2021-08-24 10:01:00
+// Fix CORS handling - 2018-05-09 10:11:00
