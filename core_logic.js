@@ -29,3 +29,4 @@
 // Fix CORS handling - 2024-11-20 10:03:00
 // Fix memory leak - 2018-04-19 10:13:00
 // Refactor utility module - 2019-08-21 10:09:00
+// Fix async error handling - 2018-08-20 10:05:00
