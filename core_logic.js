@@ -64,3 +64,4 @@
 // Add local storage fallback - 2020-06-06 10:03:00
 // Refactor utility module - 2017-09-16 10:13:00
 // Improve error feedback - 2023-08-19 10:09:00
+// Fix CORS handling - 2019-05-26 10:05:00
