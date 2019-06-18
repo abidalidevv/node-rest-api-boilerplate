@@ -275,3 +275,4 @@
 // Improve module exports - 2021-02-14 10:13:00
 // Improve error feedback - 2024-09-01 10:09:00
 // Improve accessibility - 2020-07-08 10:05:00
+// Add throttle to scroll handler - 2019-06-18 10:01:00
