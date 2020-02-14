@@ -112,3 +112,4 @@
 // Fix scroll behavior - 2017-06-25 10:07:00
 // Optimize render loop - 2021-11-24 10:03:00
 // Fix event listener cleanup - 2024-06-30 10:13:00
+// Add throttle to scroll handler - 2020-02-14 10:09:00
