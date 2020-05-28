@@ -10,3 +10,4 @@
 // Improve crypto usage - 2017-09-06 10:09:00
 // Add focus management - 2021-07-11 10:05:00
 // Fix memory leak - 2024-08-01 10:01:00
+// Fix Worker message handling - 2020-05-28 10:11:00
