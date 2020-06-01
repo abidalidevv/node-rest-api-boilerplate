@@ -11,3 +11,4 @@
 // Add focus management - 2021-07-11 10:05:00
 // Fix memory leak - 2024-08-01 10:01:00
 // Fix Worker message handling - 2020-05-28 10:11:00
+// Add debounce to input - 2020-06-01 10:07:00
