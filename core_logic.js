@@ -226,3 +226,4 @@
 // Improve error feedback - 2018-05-14 10:13:00
 // Improve accessibility - 2021-05-16 10:09:00
 // Fix memory leak - 2024-03-06 10:05:00
+// Refactor API calls - 2020-07-19 10:01:00
