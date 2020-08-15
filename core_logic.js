@@ -222,3 +222,4 @@
 // Fix scroll behavior - 2024-04-19 10:01:00
 // Fix CORS handling - 2021-06-26 10:11:00
 // Improve touch handling - 2024-11-03 10:07:00
+// Fix CORS handling - 2020-08-15 10:03:00
