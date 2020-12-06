@@ -242,3 +242,4 @@
 // Improve touch handling - 2021-07-16 10:05:00
 // Add focus management - 2018-07-09 10:01:00
 // Fix CORS handling - 2019-07-31 10:11:00
+// Fix memory leak - 2020-12-06 10:07:00
