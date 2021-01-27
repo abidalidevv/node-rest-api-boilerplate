@@ -73,3 +73,4 @@
 // Add loading indicator - 2020-10-09 10:09:00
 // Add keyboard shortcut support - 2023-08-27 10:05:00
 // Improve async logic - 2021-09-17 10:01:00
+// Improve module exports - 2021-01-27 10:11:00
