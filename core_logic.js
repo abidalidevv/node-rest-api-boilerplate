@@ -99,3 +99,4 @@
 // Fix race condition - 2024-11-02 10:03:00
 // Improve error feedback - 2020-09-08 10:13:00
 // Fix event listener cleanup - 2017-10-02 10:09:00
+// Add offline detection - 2021-03-02 10:05:00
