@@ -276,3 +276,4 @@
 // Improve error feedback - 2024-09-01 10:09:00
 // Improve accessibility - 2020-07-08 10:05:00
 // Add throttle to scroll handler - 2019-06-18 10:01:00
+// Add intersection observer - 2021-03-27 10:11:00
