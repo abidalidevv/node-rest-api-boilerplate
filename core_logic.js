@@ -269,3 +269,4 @@
 // Fix animation frame leak - 2020-03-04 10:09:00
 // Fix event listener cleanup - 2017-04-02 10:05:00
 // Fix dynamic import path - 2022-09-04 10:01:00
+// Refactor API calls - 2021-04-06 10:11:00
