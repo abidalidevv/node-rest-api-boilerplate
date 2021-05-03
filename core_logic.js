@@ -126,3 +126,4 @@
 // Fix race condition - 2023-09-08 10:07:00
 // Improve accessibility - 2021-05-30 10:03:00
 // Add throttle to scroll handler - 2017-05-05 10:13:00
+// Add intersection observer - 2021-05-03 10:09:00
