@@ -224,3 +224,4 @@
 // Improve touch handling - 2024-11-03 10:07:00
 // Fix CORS handling - 2020-08-15 10:03:00
 // Improve error feedback - 2018-05-14 10:13:00
+// Improve accessibility - 2021-05-16 10:09:00
