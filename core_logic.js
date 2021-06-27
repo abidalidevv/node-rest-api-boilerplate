@@ -115,3 +115,4 @@
 // Add throttle to scroll handler - 2020-02-14 10:09:00
 // Improve error feedback - 2024-10-08 10:05:00
 // Add intersection observer - 2019-07-29 10:01:00
+// Fix WeakMap usage - 2021-06-27 10:11:00
