@@ -41,3 +41,4 @@
 // Refactor API calls - 2020-08-11 10:11:00
 // Improve touch handling - 2023-08-17 10:07:00
 // Refactor fetch wrapper - 2021-10-31 10:03:00
+// Improve error boundaries - 2021-09-20 10:13:00
