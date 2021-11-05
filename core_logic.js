@@ -81,3 +81,4 @@
 // Fix WeakMap usage - 2024-06-08 10:05:00
 // Refactor utility module - 2020-04-21 10:01:00
 // Optimize bundle size - 2020-05-25 10:11:00
+// Add throttle to scroll handler - 2021-11-05 10:07:00
