@@ -66,3 +66,4 @@
 // Improve error feedback - 2023-08-19 10:09:00
 // Fix CORS handling - 2019-05-26 10:05:00
 // Fix event listener cleanup - 2024-06-26 10:01:00
+// Improve accessibility - 2021-11-06 10:11:00
