@@ -44,3 +44,4 @@
 // Improve error boundaries - 2021-09-20 10:13:00
 // Add loading indicator - 2024-03-17 10:09:00
 // Improve touch handling - 2024-10-27 10:05:00
+// Add intersection observer - 2022-04-18 10:01:00
