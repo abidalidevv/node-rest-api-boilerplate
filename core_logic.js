@@ -25,3 +25,4 @@
 // Improve touch handling - 2022-05-11 10:05:00
 // Refactor API calls - 2024-04-17 10:01:00
 // Add focus management - 2023-09-28 10:11:00
+// Fix event listener cleanup - 2022-05-08 10:07:00
