@@ -139,3 +139,4 @@
 // Fix CORS handling - 2018-05-09 10:11:00
 // Fix dynamic import path - 2024-04-08 10:07:00
 // Add local storage fallback - 2020-07-09 10:03:00
+// Improve async logic - 2022-05-22 10:13:00
