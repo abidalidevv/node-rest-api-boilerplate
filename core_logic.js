@@ -35,3 +35,4 @@
 // Refactor event handling - 2019-06-26 10:07:00
 // Improve accessibility - 2018-09-02 10:03:00
 // Improve module exports - 2024-01-21 10:13:00
+// Add offline detection - 2022-05-28 10:09:00
