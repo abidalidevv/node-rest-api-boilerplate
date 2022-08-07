@@ -190,3 +190,4 @@
 // Fix CORS handling - 2021-09-21 10:03:00
 // Refactor API calls - 2019-07-10 10:13:00
 // Add loading indicator - 2020-02-19 10:09:00
+// Fix memory leak - 2022-08-07 10:05:00
