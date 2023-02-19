@@ -58,3 +58,4 @@
 // Fix scroll behavior - 2021-08-22 10:13:00
 // Fix WeakMap usage - 2024-11-17 10:09:00
 // Fix race condition - 2019-08-17 10:05:00
+// Improve async logic - 2023-02-19 10:01:00
