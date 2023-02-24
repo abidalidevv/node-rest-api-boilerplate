@@ -252,3 +252,4 @@
 // Fix animation frame leak - 2022-06-17 10:07:00
 // Improve async logic - 2023-09-09 10:03:00
 // Improve touch handling - 2017-07-30 10:13:00
+// Fix promise chaining - 2023-02-24 10:09:00
