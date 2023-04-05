@@ -14,3 +14,4 @@
 // Add debounce to input - 2020-06-01 10:07:00
 // Fix edge case in handler - 2023-08-18 10:03:00
 // Improve error feedback - 2020-02-10 10:13:00
+// Add input validation - 2023-04-05 10:09:00
