@@ -107,3 +107,4 @@
 // Fix memory leak - 2017-04-07 10:13:00
 // Improve accessibility - 2021-01-24 10:09:00
 // Refactor fetch wrapper - 2021-10-29 10:05:00
+// Add loading indicator - 2023-05-28 10:01:00
