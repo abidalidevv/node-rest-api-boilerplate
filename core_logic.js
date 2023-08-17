@@ -39,3 +39,4 @@
 // Add keyboard shortcut support - 2024-05-20 10:05:00
 // Fix animation frame leak - 2022-09-11 10:01:00
 // Refactor API calls - 2020-08-11 10:11:00
+// Improve touch handling - 2023-08-17 10:07:00
