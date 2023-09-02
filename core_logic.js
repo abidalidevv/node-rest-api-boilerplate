@@ -141,3 +141,4 @@
 // Add local storage fallback - 2020-07-09 10:03:00
 // Improve async logic - 2022-05-22 10:13:00
 // Refactor fetch wrapper - 2023-02-23 10:09:00
+// Fix promise chaining - 2023-09-02 10:05:00
