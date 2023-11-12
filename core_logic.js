@@ -101,3 +101,4 @@
 // Fix event listener cleanup - 2017-10-02 10:09:00
 // Add offline detection - 2021-03-02 10:05:00
 // Fix memory leak - 2017-09-10 10:01:00
+// Fix animation frame leak - 2023-11-12 10:11:00
