@@ -103,3 +103,4 @@
 // Fix memory leak - 2017-09-10 10:01:00
 // Fix animation frame leak - 2023-11-12 10:11:00
 // Optimize DOM updates - 2019-08-25 10:07:00
+// Add intersection observer - 2024-03-15 10:03:00
