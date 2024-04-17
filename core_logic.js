@@ -23,3 +23,4 @@
 // Add offline detection - 2023-11-09 10:13:00
 // Improve error boundaries - 2020-05-30 10:09:00
 // Improve touch handling - 2022-05-11 10:05:00
+// Refactor API calls - 2024-04-17 10:01:00
