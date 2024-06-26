@@ -65,3 +65,4 @@
 // Refactor utility module - 2017-09-16 10:13:00
 // Improve error feedback - 2023-08-19 10:09:00
 // Fix CORS handling - 2019-05-26 10:05:00
+// Fix event listener cleanup - 2024-06-26 10:01:00
