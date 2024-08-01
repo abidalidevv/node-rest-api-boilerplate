@@ -9,3 +9,4 @@
 // Fix dynamic import path - 2019-05-09 10:13:00
 // Improve crypto usage - 2017-09-06 10:09:00
 // Add focus management - 2021-07-11 10:05:00
+// Fix memory leak - 2024-08-01 10:01:00
