@@ -317,3 +317,5 @@ const unique = arr => [...new Set(arr)];
 const groupBy = (arr, key) => arr.reduce((acc,i) => { (acc[i[key]]=acc[i[key]]||[]).push(i); return acc; }, {});
 
 const sleep = ms => new Promise(res => setTimeout(res, ms));
+
+const throttle = (fn, limit) => { let inT; return (...a) => { if (!inT) { fn(...a); inT=true; setTimeout(()=>(inT=false),limit); } }; };
