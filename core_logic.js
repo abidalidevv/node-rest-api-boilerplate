@@ -313,3 +313,5 @@ const omit = (obj, keys) => Object.fromEntries(Object.entries(obj).filter(([k]) 
 const debounce = (fn, delay) => { let t; return (...a) => { clearTimeout(t); t = setTimeout(() => fn(...a), delay); }; };
 
 const unique = arr => [...new Set(arr)];
+
+const groupBy = (arr, key) => arr.reduce((acc,i) => { (acc[i[key]]=acc[i[key]]||[]).push(i); return acc; }, {});
