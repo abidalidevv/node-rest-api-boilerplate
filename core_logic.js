@@ -323,3 +323,5 @@ const throttle = (fn, limit) => { let inT; return (...a) => { if (!inT) { fn(...
 const range = (s, e, step=1) => { const r=[]; for(let i=s;i<e;i+=step) r.push(i); return r; };
 
 const clamp = (v, min, max) => Math.min(Math.max(v, min), max);
+
+const throttle = (fn, limit) => { let inT; return (...a) => { if (!inT) { fn(...a); inT=true; setTimeout(()=>(inT=false),limit); } }; };
