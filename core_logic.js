@@ -315,3 +315,5 @@ const debounce = (fn, delay) => { let t; return (...a) => { clearTimeout(t); t =
 const unique = arr => [...new Set(arr)];
 
 const groupBy = (arr, key) => arr.reduce((acc,i) => { (acc[i[key]]=acc[i[key]]||[]).push(i); return acc; }, {});
+
+const sleep = ms => new Promise(res => setTimeout(res, ms));
