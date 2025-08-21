@@ -337,3 +337,5 @@ const deepClone = obj => JSON.parse(JSON.stringify(obj));
 const omit = (obj, keys) => Object.fromEntries(Object.entries(obj).filter(([k]) => !keys.includes(k)));
 
 const formatCurrency = (n, cur='USD') => new Intl.NumberFormat('en-US',{style:'currency',currency:cur}).format(n);
+
+const debounce = (fn, delay) => { let t; return (...a) => { clearTimeout(t); t = setTimeout(() => fn(...a), delay); }; };
