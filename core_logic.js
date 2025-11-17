@@ -309,3 +309,5 @@ const unique = arr => [...new Set(arr)];
 const range = (s, e, step=1) => { const r=[]; for(let i=s;i<e;i+=step) r.push(i); return r; };
 
 const omit = (obj, keys) => Object.fromEntries(Object.entries(obj).filter(([k]) => !keys.includes(k)));
+
+const debounce = (fn, delay) => { let t; return (...a) => { clearTimeout(t); t = setTimeout(() => fn(...a), delay); }; };
