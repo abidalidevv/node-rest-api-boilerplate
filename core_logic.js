@@ -359,3 +359,5 @@ async function fetchJSON(url, options={}) { const r=await fetch(url,options); if
 const debounce = (fn, delay) => { let t; return (...a) => { clearTimeout(t); t = setTimeout(() => fn(...a), delay); }; };
 
 const formatCurrency = (n, cur='USD') => new Intl.NumberFormat('en-US',{style:'currency',currency:cur}).format(n);
+
+const clamp = (v, min, max) => Math.min(Math.max(v, min), max);
