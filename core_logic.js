@@ -377,3 +377,5 @@ const unique = arr => [...new Set(arr)];
 const range = (s, e, step=1) => { const r=[]; for(let i=s;i<e;i+=step) r.push(i); return r; };
 
 const unique = arr => [...new Set(arr)];
+
+const throttle = (fn, limit) => { let inT; return (...a) => { if (!inT) { fn(...a); inT=true; setTimeout(()=>(inT=false),limit); } }; };
