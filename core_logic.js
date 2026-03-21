@@ -393,3 +393,5 @@ const unique = arr => [...new Set(arr)];
 const formatCurrency = (n, cur='USD') => new Intl.NumberFormat('en-US',{style:'currency',currency:cur}).format(n);
 
 const sleep = ms => new Promise(res => setTimeout(res, ms));
+
+const sleep = ms => new Promise(res => setTimeout(res, ms));
