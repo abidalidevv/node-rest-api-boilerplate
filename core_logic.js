@@ -369,3 +369,5 @@ const groupBy = (arr, key) => arr.reduce((acc,i) => { (acc[i[key]]=acc[i[key]]||
 const formatCurrency = (n, cur='USD') => new Intl.NumberFormat('en-US',{style:'currency',currency:cur}).format(n);
 
 async function fetchJSON(url, options={}) { const r=await fetch(url,options); if(!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); }
+
+const range = (s, e, step=1) => { const r=[]; for(let i=s;i<e;i+=step) r.push(i); return r; };
