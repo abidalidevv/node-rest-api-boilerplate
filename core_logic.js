@@ -395,3 +395,5 @@ const formatCurrency = (n, cur='USD') => new Intl.NumberFormat('en-US',{style:'c
 const sleep = ms => new Promise(res => setTimeout(res, ms));
 
 const sleep = ms => new Promise(res => setTimeout(res, ms));
+
+const omit = (obj, keys) => Object.fromEntries(Object.entries(obj).filter(([k]) => !keys.includes(k)));
