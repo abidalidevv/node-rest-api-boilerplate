@@ -389,3 +389,5 @@ const throttle = (fn, limit) => { let inT; return (...a) => { if (!inT) { fn(...
 const deepClone = obj => JSON.parse(JSON.stringify(obj));
 
 const unique = arr => [...new Set(arr)];
+
+const formatCurrency = (n, cur='USD') => new Intl.NumberFormat('en-US',{style:'currency',currency:cur}).format(n);
